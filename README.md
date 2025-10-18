@@ -13,7 +13,6 @@ Repositório do episódio de podcast criado com apoio de IAs Generativas, focado
 - **Capa:** [capa-oficial.png](assets/cover/capa-oficial.png)
 
 ## 🧩 Prompts utilizados
-Os prompts mestres que guiaram a criação:
 - [01-roteiro-master.md](prompts/01-roteiro-master.md)
 - [02-claridade-master.md](prompts/02-claridade-master.md)
 - [03-auditoria-tecnica-master.md](prompts/03-auditoria-tecnica-master.md)
